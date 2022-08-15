@@ -1,3 +1,4 @@
+<div style = "display: flex; flex-direction: row">
 <div align="right"> 
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -10,6 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maaix&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaix&layout=compact&langs_count=7&theme=nord"/>
   
+</div>
 </div>
 
 
